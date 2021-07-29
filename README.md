@@ -77,7 +77,9 @@ Para obtermos este valor, basta multiplicarmos a tensão rms pela raiz de 2
 
 A **Razão do transformador** será calculada e depois subtraída 1,4V que serão perdidos na ponte de diodos, uma vez que cada diodo consome 0,7V da tensão.
 considerando que desejamos trbalhar com a ddp de 24V, podemos realizar os seguintes cálculos:
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74382355/127529424-912535fb-3b80-4e0a-ab16-575239e70177.png">
+</div>
 
 
 Com a tensão entre os polos da ponte de diodos, podemos calcular o **Valor do ripple**, que consiste em 10% da voltagem que chega ao capacitor, e com esse valor,
