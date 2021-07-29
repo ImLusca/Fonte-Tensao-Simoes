@@ -71,17 +71,14 @@ apresentar em sua saída um valor constante fixo, e aguentar também variações
 A **voltagem de pico** é um valor que será usado nos próximos cálculos e consiste na medida a partir do eixo horizontal até a parte superior da onda.
 Para obtermos este valor, basta multiplicarmos a tensão rms pela raiz de 2
 
-<div>
- 
-
-![tensaoPico](https://user-images.githubusercontent.com/40775728/127388001-00664f44-6334-47cd-8794-ac2a7032959b.PNG)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/40775728/127389512-57b6bed9-d66f-4ec5-b177-948a7d1a3984.PNG">
+</div>
 
 A **Razão do transformador** será calculada e depois subtraída 1,4V que serão perdidos na ponte de diodos, uma vez que cada diodo consome 0,7V da tensão.
 considerando que desejamos trbalhar com a ddp de 24V, podemos realizar os seguintes cálculos:
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/40775728/127389512-57b6bed9-d66f-4ec5-b177-948a7d1a3984.PNG">
-</div>
+
 
 Com a tensão entre os polos da ponte de diodos, podemos calcular o **Valor do ripple**, que consiste em 10% da voltagem que chega ao capacitor, e com esse valor,
 futuramente poderemos calcular a Capacitância necessária para este capacitor, além de podermos calcular a tensão de saída deste capacitor:
