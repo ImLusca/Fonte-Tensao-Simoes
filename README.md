@@ -59,6 +59,13 @@ O capacitor se carrega durante um breve período de tempo e tem sua descarga len
 com que os pulsos de saída fiquem quase invisíveis. Esse ruído residual é conhecido como RIPPLE e
 quanto menor o RIPPLE, melhor é a fonte de alimentação.
 
+4. A última etapa da fonte, mas não menos importante que as antecedentes, é a regulação. Um regulador é um dispositivo que funciona de forma a linearizar o máximo possível a saída da fonte na tensão desejada. Ou seja, por mais que entre uma tensão pulsante e maior que a desejada na entrada do regulador, este deve
+apresentar em sua saída um valor constante fixo, e aguentar também variações na corrente da carga e na temperatura. Para fontes de alimentação de baixa corrente, um regulador de tensão simples pode ser feito com um resistor e um diodo zener conectado ao contrário, conforme mostrado no diagrama. Os diodos Zener são classificados por sua tensão de ruptura e potência máxima, sendo 13 V e 0,5 W os valores escolhidos para o trabalho, o resistor tem a função de limitar a corrente que passará pelo zener. Como desejamos uma fonte de tensão variavel, 3V A 12V, o potenciometro tem a função de controlar esta tensão através da queda de potencial conforme o valor de saída requerido.
+
+![zener](https://user-images.githubusercontent.com/74382355/127528233-a05d374a-ca49-4e0c-a685-cfdf381e7d65.png)
+![saida](https://user-images.githubusercontent.com/74382355/127528344-8c2eec20-6a56-4b04-b3ef-52727e209932.png)
+
+
 ## Cálculos
 
 A **voltagem de pico** é um valor que será usado nos próximos cálculos e consiste na medida a partir do eixo horizontal até a parte superior da onda.
