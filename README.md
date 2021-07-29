@@ -4,7 +4,8 @@ Neste projeto para a disciplina de eletrônica para a computação da USP são c
 
 # Circuíto no Falstad
 
-![image](https://user-images.githubusercontent.com/40775728/127394548-27aeaccc-823f-42af-9d27-d8015510fe8b.png)
+![circfalstad](https://user-images.githubusercontent.com/74382355/127533630-55002419-223b-45db-bedc-4c39079a9b85.png)
+
 
 Link: https://tinyurl.com/yeagkzrp
 
