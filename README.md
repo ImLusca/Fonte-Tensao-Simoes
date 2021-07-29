@@ -110,12 +110,14 @@ futuramente poderemos calcular a Capacitância necessária para este capacitor, 
 | 1 | Transistor NPN | [0,22](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)| 0,22 |
 | 1 | Potenciômetro 5K | [2,20](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 2,20 |
 | 1 | Led 5mm Vermelho| [0,25](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html)| 0,25 |
-|**Total:** | | | **R$ 42,60**|
+|**Total:** | | | **R$ 46,00**|
 
   
  
   
   # Responsáveis
-  
+  Felipe Henrique de Oliveira - 11272811
+  Lucas -
+  Rogério -
   
 
