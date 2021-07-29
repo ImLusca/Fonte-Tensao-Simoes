@@ -97,7 +97,7 @@ Fonte 12V e corrente total:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74382355/127531912-0bff34a0-aadc-46bf-85f5-e8bf1ff60bf8.png"/>
 </div>
-Por fim, o cálculo da capacitância, onde f = 2 * 60 = 120 Hz pois a saída da frequência é o dobro da entrada para uma retificação em ponte:
+Por fim, o cálculo da capacitância, onde f = 2 * 60 = 120 Hz pois a saída da frequência é o dobro da entrada para uma retificação de onda completa em ponte:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74382355/127532478-308dbc2d-cd43-47f3-93f3-9266e9f9df31.png"/>
 </div>
