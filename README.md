@@ -123,6 +123,7 @@ Link: https://tinyurl.com/yeagkzrp
 ![image](https://user-images.githubusercontent.com/40775728/127395486-5e6e6994-fcf1-40e9-adc0-462599a11cdd.png)
 
  # Fontes de pesquisa
+ Aulas do Prof. Simões: https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao </br>
  https://www.electronica-pt.com/fontes-alimentacao/teoria-fontes-alimentacao </br>
 https://electronicsclub.info/powersupplies.htm </br>
 http://www.lsi.usp.br/~bariatto/fatec/aca/aula4-reguladores.pdf </br>
