@@ -62,7 +62,7 @@ quanto menor o RIPPLE, melhor é a fonte de alimentação.
 ## Cálculos
 
 A **voltagem de pico** é um valor que será usado nos próximos cálculos e consiste na medida a partir do eixo horizontal até a parte superior da onda.
-Para obtermos este valor, basta multiplicarmos a tensão pela raiz de 2
+Para obtermos este valor, basta multiplicarmos a tensão rms pela raiz de 2
 
 <div>
  
