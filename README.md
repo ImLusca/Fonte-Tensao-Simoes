@@ -83,14 +83,17 @@ considerando que desejamos trbalhar com a ddp de 24V, podemos realizar os seguin
 
 
 Com a tensão entre os polos da ponte de diodos, podemos calcular o **Valor do ripple**, que consiste em 10% da voltagem que chega ao capacitor, e com esse valor,
-futuramente poderemos calcular a Capacitância necessária para este capacitor, além de podermos calcular a tensão de saída deste capacitor:
+pode-se calcular a capacitância necessária para este capacitor, além de podermos calcular a tensão de saída.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/40775728/127390350-9ecf187e-195b-409e-bbc9-6ca64faded9b.PNG"/>
 </div>
 
+Para calcular a capacitância precisa-se saber a priori a magnitude de corrente o circuito requer, esse cálculo é feito com base nas caracteristicas dos diodo zener e a configuração de tensão da fonte 3V a 12v:
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74382355/127531311-e41478eb-d943-4e4f-a526-d9f79d7732c6.png"/>
+</div>
 
   
   
