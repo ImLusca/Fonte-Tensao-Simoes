@@ -57,7 +57,7 @@ energia) como podemos ver na imagem abaixo:
 
 O capacitor se carrega durante um breve período de tempo e tem sua descarga lenta, com isso, faz
 com que os pulsos de saída fiquem quase invisíveis. Esse ruído residual é conhecido como RIPPLE e
-quanto menor o RIPPLE, melhor é sua fonte de alimentação.
+quanto menor o RIPPLE, melhor é a fonte de alimentação.
 
 ## Cálculos
 
