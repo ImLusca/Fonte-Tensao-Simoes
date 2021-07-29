@@ -112,9 +112,9 @@ futuramente poderemos calcular a Capacitância necessária para este capacitor, 
 |**Total:** | | | **R$ 46,00**|
 
  # Fontes
- https://www.electronica-pt.com/fontes-alimentacao/teoria-fontes-alimentacao 
-https://electronicsclub.info/powersupplies.htm 
-http://www.lsi.usp.br/~bariatto/fatec/aca/aula4-reguladores.pdf 
+ https://www.electronica-pt.com/fontes-alimentacao/teoria-fontes-alimentacao </br>
+https://electronicsclub.info/powersupplies.htm </br>
+http://www.lsi.usp.br/~bariatto/fatec/aca/aula4-reguladores.pdf </br>
 https://www.mcmfontesenobreaks.ind.br/pt-br/como-funciona-sua-fonte-de-alimentacao/ 
  
   
