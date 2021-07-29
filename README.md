@@ -6,7 +6,7 @@ Neste projeto para a disciplina de eletrônica para a computação da USP são c
 
 ![image](https://user-images.githubusercontent.com/40775728/127394548-27aeaccc-823f-42af-9d27-d8015510fe8b.png)
 
-Link: https://tinyurl.com/ygharqv3
+Link: https://tinyurl.com/yeagkzrp
 
 # PCB  no EAGLE
 
