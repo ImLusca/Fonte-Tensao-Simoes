@@ -89,13 +89,17 @@ pode-se calcular a capacitância necessária para este capacitor, além de poder
   <img src="https://user-images.githubusercontent.com/40775728/127390350-9ecf187e-195b-409e-bbc9-6ca64faded9b.PNG"/>
 </div>
 
-Para calcular a capacitância precisa-se saber a priori a magnitude de corrente que o circuito requer, esse cálculo é feito com base nas caracteristicas dos diodo zener e a configuração de tensão da fonte 3V a 12v, primeiramente para o diodo zener e 3V:
+Para calcular a capacitância precisa-se saber a priori a magnitude de corrente que o circuito requer, esse cálculo é feito com base nas caracteristicas dos diodo zener e a configuração de tensão da fonte 3V a 12V, primeiramente para o diodo zener e 3V:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74382355/127531311-e41478eb-d943-4e4f-a526-d9f79d7732c6.png"/>
 </div>
 Fonte 12V e corrente total:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74382355/127531912-0bff34a0-aadc-46bf-85f5-e8bf1ff60bf8.png"/>
+</div>
+Por fim, o cálculo da capacitância:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74382355/127532478-308dbc2d-cd43-47f3-93f3-9266e9f9df31.png"/>
 </div>
 
 
