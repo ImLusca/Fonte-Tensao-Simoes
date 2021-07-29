@@ -115,8 +115,8 @@ futuramente poderemos calcular a Capacitância necessária para este capacitor, 
  
   
   # Responsáveis
-  Felipe Henrique de Oliveira - 11272811
- Lucas -
- Rogério Lopes Lube - 10770113 
+  Felipe Henrique de Oliveira - **11272811** </br>
+  Lucas Pereira Pacheco - **12543930**
+  Rogério Lopes Lube - **10770113** 
   
 
