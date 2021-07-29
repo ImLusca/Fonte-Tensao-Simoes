@@ -12,7 +12,7 @@ Link: https://tinyurl.com/yeagkzrp
 
 ![image](https://user-images.githubusercontent.com/40775728/127395495-bd349569-73a3-4966-a399-553951ae09e4.png)
 
-![image](https://user-images.githubusercontent.com/40775728/127395486-5e6e6994-fcf1-40e9-adc0-462599a11cdd.png)
+![PCB](https://user-images.githubusercontent.com/40775728/127530334-ce86b472-7d6c-4195-8a3e-318c151f070c.PNG)
 
 
 # Funcionamento:
