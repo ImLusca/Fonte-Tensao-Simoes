@@ -117,6 +117,6 @@ futuramente poderemos calcular a Capacitância necessária para este capacitor, 
   # Responsáveis
   Felipe Henrique de Oliveira - 11272811
  Lucas -
- Rogério -
+ Rogério Lopes Lube - 10770113 
   
 
