@@ -1,21 +1,6 @@
 # Objetivo
 Neste projeto para a disciplina de eletrônica para a computação da USP são carlos o grupo tem como objetivo projetar uma **fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA**.
 
-
-# Circuíto no Falstad
-
-![circfalstad](https://user-images.githubusercontent.com/74382355/127533630-55002419-223b-45db-bedc-4c39079a9b85.png)
-
-
-Link: https://tinyurl.com/yeagkzrp
-
-# PCB  no EAGLE
-
-![image](https://user-images.githubusercontent.com/40775728/127395495-bd349569-73a3-4966-a399-553951ae09e4.png)
-
-![image](https://user-images.githubusercontent.com/40775728/127395486-5e6e6994-fcf1-40e9-adc0-462599a11cdd.png)
-
-
 # Funcionamento:
 O objetivo da fonte de alimentação é transformar a tensão do fornecedor de energia 110V-220V em
 corrente alternada AC numa tensão de corrente contínua que permita os equipamentos em CC funcionar.
@@ -124,7 +109,20 @@ Por fim, o cálculo da capacitância, onde f = 2 * 60 = 120 Hz pois a saída da 
 | 1 | Led 5mm Vermelho| [0,25](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html)| 0,25 |
 |**Total:** | | | **R$ 46,00**|
 
- # Fontes
+# Circuíto no Falstad
+
+![circfalstad](https://user-images.githubusercontent.com/74382355/127533630-55002419-223b-45db-bedc-4c39079a9b85.png)
+
+
+Link: https://tinyurl.com/yeagkzrp
+
+# PCB  no EAGLE
+
+![image](https://user-images.githubusercontent.com/40775728/127395495-bd349569-73a3-4966-a399-553951ae09e4.png)
+
+![image](https://user-images.githubusercontent.com/40775728/127395486-5e6e6994-fcf1-40e9-adc0-462599a11cdd.png)
+
+ # Fontes de pesquisa
  https://www.electronica-pt.com/fontes-alimentacao/teoria-fontes-alimentacao </br>
 https://electronicsclub.info/powersupplies.htm </br>
 http://www.lsi.usp.br/~bariatto/fatec/aca/aula4-reguladores.pdf </br>
