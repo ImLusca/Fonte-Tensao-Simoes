@@ -94,7 +94,7 @@ futuramente poderemos calcular a Capacitância necessária para este capacitor, 
   | Quantidade | Componente | Valor uni. | Valor Tot|
 |--------------|------------|-------|--------|
 | 1 | Transformador 110/220V para 24V| [38,77](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html)| 38,77 |
-| 4 | Diodo 1N4004 | [0,95](https://www.baudaeletronica.com.br/diodo-10a10.html ) | 3,80 |
+| 4 | Diodo Retificador 10A10| [0,95](https://www.baudaeletronica.com.br/diodo-10a10.html ) | 3,80 |
 | 1 | Capacitor 470 uF /25V| [0,41](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) | 0,41|
 | 1 | Diodo Zener 13V | [0,09](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-13v-0-5w.html) | 0,09 |
 | 1 | Resistor 1K | [0,06](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)| 0,06 |  
