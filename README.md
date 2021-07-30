@@ -129,6 +129,8 @@ https://electronicsclub.info/powersupplies.htm </br>
 http://www.lsi.usp.br/~bariatto/fatec/aca/aula4-reguladores.pdf </br>
 https://www.mcmfontesenobreaks.ind.br/pt-br/como-funciona-sua-fonte-de-alimentacao/ 
  
+ Link do vídeo: https://drive.google.com/file/d/1Jho4QPQ_KDcUPeQXyRfK_TmkSZQ_4Uwc/view
+ 
   
   # Responsáveis
   Felipe Henrique de Oliveira - **11272811** </br>
