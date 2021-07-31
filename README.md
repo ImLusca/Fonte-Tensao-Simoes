@@ -114,7 +114,7 @@ Por fim, o cálculo da capacitância, onde f = 2 * 60 = 120 Hz pois a saída da 
 ![circfalstad](https://user-images.githubusercontent.com/74382355/127533630-55002419-223b-45db-bedc-4c39079a9b85.png)
 
 
-Link do circuito: https://tinyurl.com/yeagkzrp
+Link do circuito: https://tinyurl.com/yeagkzrp <\br>
 oi
 
 # PCB  no EAGLE
